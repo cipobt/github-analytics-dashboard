@@ -4,6 +4,7 @@ github-dashboard-env/
 # Optional: Exclude other unnecessary files
 __pycache__/
 *.pyc
+*.deb
 env/
 
 # Ignore the virtual environment folder
